@@ -1,5 +1,7 @@
 # python101
 
+Import via URL in databricks: https://github.com/data-derp/python101/blob/master/src/python101.ipynb?raw=true
+
 - Variables
 - Strings
 - Lists
