@@ -13,6 +13,7 @@
 - Functions 
 - Lamda
 - Functionals (map, reduce filter)
+- ?Testing?
 
 (Optional)
 - Classes
