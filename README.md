@@ -8,11 +8,15 @@ Import via URL in databricks: https://github.com/data-derp/python101/blob/master
 
 
 - Calculations (introducing comments)
-- Variables and Types (assignments, calculation with variables)
-- Type conversion (casting)
+- Variables (assignments, calculation with variables)
+- Types and type conversion (casting)
 - Lists (introducing range)
 - Dictionaries 
-- Functions and methods (built in and defining e.g. string methods, list methods, Lamda, Functional (map, reduce filter)
+- Functions and methods 
+  - (introducing indentation(https://docs.python.org/3.11/reference/lexical_analysis.html#indentation) mixing tabs and spaces is disallowed (spaces preferred),
+  - explicit line joining https://docs.python.org/3.11/reference/lexical_analysis.html#explicit-line-joining
+  - implicit line joining https://docs.python.org/3.11/reference/lexical_analysis.html#implicit-line-joining
+  - built in and defining e.g. string methods, list methods, Lamda, Functional (map, reduce filter)
 - Packages (e.g. ways of importing)
 - Conditions
 - Loops
