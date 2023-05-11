@@ -7,9 +7,9 @@ Import via URL in databricks: https://github.com/data-derp/python101/blob/master
 - Background (since when, importance in data, how does Python work under the hood, )
 
 
-- Calculations (introducing comments)
-- Variables (assignments, calculation with variables)
-- Types and type conversion (casting)
+- Python for calculations
+- Variables
+- Types and type conversion
 - Lists (introducing range)
 - Dictionaries 
 - Functions and methods 
