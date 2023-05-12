@@ -4,13 +4,10 @@ WIP everything is work in progress, readme currently is just a note
 
 Import via URL in databricks: https://github.com/data-derp/python101/blob/master/src/python101.ipynb?raw=true
 
-- Background (since when, importance in data, how does Python work under the hood, )
-
-
 - Python for calculations
 - Variables
 - Types and type conversion
-- Lists (introducing range)
+- Lists 
 - Dictionaries 
 - Functions and methods 
   - (introducing indentation(https://docs.python.org/3.11/reference/lexical_analysis.html#indentation) mixing tabs and spaces is disallowed (spaces preferred),
@@ -19,7 +16,7 @@ Import via URL in databricks: https://github.com/data-derp/python101/blob/master
   - built in and defining e.g. string methods, list methods, Lamda, Functional (map, reduce filter)
 - Packages (e.g. ways of importing)
 - Conditions
-- Loops
+- Loops (introducing range)
 - Pattern Matching
 - File Handling
 - ?Testing?
