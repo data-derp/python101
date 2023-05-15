@@ -8,7 +8,7 @@ Import via URL in databricks: https://github.com/data-derp/python101/blob/master
 - Variables
 - Types and type conversion
 - Lists 
-- Dictionaries 
+- Other data types 
 - Functions and methods 
   - (introducing indentation(https://docs.python.org/3.11/reference/lexical_analysis.html#indentation) mixing tabs and spaces is disallowed (spaces preferred),
   - explicit line joining https://docs.python.org/3.11/reference/lexical_analysis.html#explicit-line-joining
@@ -16,7 +16,7 @@ Import via URL in databricks: https://github.com/data-derp/python101/blob/master
   - built in and defining e.g. string methods, list methods, Lamda, Functional (map, reduce filter)
 - Packages (e.g. ways of importing)
 - Conditions
-- Loops (introducing range)
+- Loops (introducing range, list comprehension)
 - Pattern Matching
 - File Handling
 - ?Testing?
