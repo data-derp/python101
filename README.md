@@ -23,4 +23,4 @@ Optional:
 - Overloading
 - Threading
 - Optional Typesystem
-- NumPy
+- NumPy, pandas, Matplotlib, scikit-learn
