@@ -9,6 +9,7 @@ Import via URL in databricks: https://github.com/data-derp/python101/blob/master
 - Types and type conversion
 - Lists 
 - Tuples, dictionaries and sets
+- Indentation
 - Functions and methods
 - Packages
 - Conditions
