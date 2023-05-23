@@ -13,7 +13,7 @@ Import via URL in databricks: https://github.com/data-derp/python101/blob/master
 - Indentation
 - Functions and methods
 - Packages
-- Conditions
+- Conditions and if-else statement
 - Loops
 - Pattern Matching
 - File Handling
