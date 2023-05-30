@@ -24,6 +24,8 @@ For proper use, select Python 3.10 or higher.
 - Loops [with exercises]
 - Pattern Matching
 - File handling [with exercises]
+  - With statement
+  - Try statement
 - Optional typesystem [with exercises]
 
 Optional:
