@@ -5,7 +5,10 @@ The focus is on syntax, to get you minimally familiar with Python to work throug
 You can skip ahead to the exercises for testing your knowledge directly.
 
 ## Import URL
-Import this notebook via URL in databricks: https://github.com/data-derp/python101/blob/master/src/python101.ipynb?raw=true
+Import this notebook via URL in databricks: https://github.com/data-derp/python101/blob/master/src/python101.ipynb?raw=true 
+
+WIP COMMENT: Import sample.txt as well
+
 For proper use, select Python 3.10 or higher.
 
 ## Table of Contents
@@ -27,9 +30,3 @@ Optional:
 - Classes [with exercises]
 - Threading
 - Other useful modules
-  - Regex
-  - Math
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - scikit-learn
