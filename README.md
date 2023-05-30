@@ -6,6 +6,7 @@ You can skip ahead to the exercises for testing your knowledge directly.
 
 ## Import URL
 Import this notebook via URL in databricks: https://github.com/data-derp/python101/blob/master/src/python101.ipynb?raw=true
+For proper use, select Python 3.10 or higher.
 
 ## Table of Contents
 - Python for calculations
@@ -15,14 +16,20 @@ Import this notebook via URL in databricks: https://github.com/data-derp/python1
 - Tuples, dictionaries and sets [with exercises]
 - Indentation
 - Functions and methods [with exercises]
-- Packages
+- Modules and packages
 - Conditions and if-else statement [with exercises]
 - Loops [with exercises]
-- Pattern Matching [with exercises]
-- File Handling [with exercises]
+- Pattern Matching
+- File handling [with exercises]
+- Optional typesystem [with exercises]
 
 Optional:
 - Classes [with exercises]
-- Optional Typesystem [with exercises]
 - Threading
-- NumPy, pandas, Matplotlib, scikit-learn
+- Other useful modules
+  - Regex
+  - Math
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - scikit-learn
