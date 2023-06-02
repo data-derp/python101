@@ -32,5 +32,3 @@ Optional:
 - Classes [with exercises]
 - Concurrent execution
 - Other useful modules and packages
-
-Note: introduce f string missing
