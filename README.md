@@ -31,6 +31,6 @@ For proper use, select Python 3.10 or higher.
 Optional:
 - Classes [with exercises]
 - Concurrent execution
-- Other useful modules
+- Other useful modules and packages
 
 Note: introduce f string missing
