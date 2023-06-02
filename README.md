@@ -7,7 +7,7 @@ You can skip ahead to the exercises for testing your knowledge directly.
 ## Import URL
 Import this notebook via URL in databricks: https://github.com/data-derp/python101/blob/master/src/python101.ipynb?raw=true 
 
-WIP COMMENT: Import sample.txt as well
+WIP COMMENT: Import sample.txt as well + uncomment match statement
 
 For proper use, select Python 3.10 or higher.
 
