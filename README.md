@@ -30,5 +30,7 @@ For proper use, select Python 3.10 or higher.
 
 Optional:
 - Classes [with exercises]
-- Threading
+- Concurrent execution
 - Other useful modules
+
+Note: introduce f string missing
