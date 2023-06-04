@@ -8,7 +8,7 @@ You can skip ahead to the exercises for testing your knowledge directly.
 - Variables [with exercises]
 - Types and type conversion [with exercises]
 - Lists [with exercises]
-- Tuples, dictionaries and sets [with exercises]
+- Tuples, dictionaries and sets
 - Indentation
 - Functions and methods [with exercises]
 - Modules and packages
