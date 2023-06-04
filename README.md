@@ -21,7 +21,7 @@ You can skip ahead to the exercises for testing your knowledge directly.
 - Optional typesystem [with exercises]
 
 Optional:
-- Classes [with exercises]
+- Classes
 - Concurrent execution
 - Other useful modules and packages
 
